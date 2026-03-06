@@ -10,6 +10,7 @@ This project investigates these threats through controlled laboratory experiment
 
 The laboratory exercises presented in this repository cover several key security domains including attack simulation, network traffic analysis, firewall configuration, encrypted communication deployment, and intrusion detection engineering.
 
+Cyber-physical infrastructures frequently rely on remote administration services, network routing infrastructure, and distributed monitoring systems, making them vulnerable to credential attacks, protocol exploitation, and network-level intrusion attempts.
 ---
 
 # Research Objectives
