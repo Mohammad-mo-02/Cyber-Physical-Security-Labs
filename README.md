@@ -4,13 +4,13 @@
 
 This repository documents a series of practical cybersecurity experiments conducted as part of my MSc Cybersecurity studies. The project focuses on the security challenges present within Cyber-Physical Systems (CPS), where digital networks interact with physical devices, industrial infrastructure, and remotely managed systems.
 
-Cyber-physical environments introduce complex security risks due to the integration of embedded devices, remote connectivity, and distributed operational systems. Attackers frequently target these environments through credential attacks, network exploitation, and protocol vulnerabilities in order to gain unauthorised access or disrupt system availability.
+Cyber-physical environments introduce complex security risks due to the integration of embedded devices, remote connectivity, and distributed operational systems. Attackers frequently target these environments through credential attacks, network exploitation, and protocol vulnerabilities in order to gain unauthorised access or disrupt system availability.Cyber-physical infrastructures frequently rely on remote administration services, network routing infrastructure, and distributed monitoring systems, making them vulnerable to credential attacks, protocol exploitation, and network-level intrusion attempts.
 
 This project investigates these threats through controlled laboratory experiments that simulate real-world attack behaviour and evaluate defensive security mechanisms. The work combines offensive security testing with defensive infrastructure deployment to analyse how cyber-physical systems can be protected against common network-based attacks.
 
 The laboratory exercises presented in this repository cover several key security domains including attack simulation, network traffic analysis, firewall configuration, encrypted communication deployment, and intrusion detection engineering.
 
-Cyber-physical infrastructures frequently rely on remote administration services, network routing infrastructure, and distributed monitoring systems, making them vulnerable to credential attacks, protocol exploitation, and network-level intrusion attempts.
+
 ---
 
 # Research Objectives
